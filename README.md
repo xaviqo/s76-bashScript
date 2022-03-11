@@ -9,6 +9,6 @@ For using this, first you need to include this PPA
 
 And then, install SYSTEM76
 
-```sudo system76-power```
+```sudo apt-get install system76-power```
 
 `
