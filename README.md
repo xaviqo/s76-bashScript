@@ -1,14 +1,13 @@
 # SYSTEM76 BASH SCRIPT
 
-This is a simple script that uses **SYSTEM76** for switching between graphic cards
+Simple script for **SYSTEM76-POWER** (from Pop-OS) to switch between graphic cards in laptops
 
-
-For using this, first you need to include this PPA 
+First you need to include this PPA 
 
 ```sudo apt-add-repository ppa:system76-dev/stable```
 
-And then, install SYSTEM76
+Then, install System76-Power
 
 ```sudo apt-get install system76-power```
 
-`
+
